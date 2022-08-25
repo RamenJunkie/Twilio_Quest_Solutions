@@ -1,0 +1,8 @@
+Executing script: C:\Users\josh\OneDrive\Code\TwilioQuest\citizen.py
+Script arguments: 
+Output:
+  File "C:\Users\josh\OneDrive\Code\TwilioQuest\citizen.py", line 3
+    greeting = 'For the glory of Python!'
+                                        ^
+IndentationError: unindent does not match any outer indentation level
+

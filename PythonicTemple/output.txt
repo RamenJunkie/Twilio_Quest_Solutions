@@ -1,0 +1,10 @@
+Executing script: C:\Users\josh\OneDrive\Code\TwilioQuest\list_iteration.py
+Script arguments: Duke,Ruby,Dottie,Snake,Joe
+Output:
+C:\Users\josh\OneDrive\Code\TwilioQuest\list_iteration.py
+Duke
+Ruby
+Dottie
+Snake
+Joe
+
